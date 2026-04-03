@@ -4,5 +4,5 @@
 - Bài tập trên lớp
 - Bài tập về nhà
 
-## Công nghệ
+## Ngôn ngữ 
 - Python
